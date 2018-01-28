@@ -591,8 +591,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .work .desc {
-    opacity: 1;
-    background: transparent !important;
+    opacity: 0.8;
   }
   .work .desc h3 {
     -webkit-transform: translate3d(0, 0, 0);
