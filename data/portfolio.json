@@ -1,6 +1,7 @@
 {
 	"data":[
-		{"title" : "Yuhu Store", "desc" : "A Simple Ecommerce Website", "img" : "images/yuhu-store.jpg", "url" : "pages/yuhu-store.html"},
+		{"title" : "Open Store", "desc" : "A Simple JSP Ecommerce Website", "img" : "images/open-store.jpg", "url" : "pages/open-store.html"},
+		{"title" : "Yuhu Store", "desc" : "A Simple PHP Ecommerce Website", "img" : "images/yuhu-store.jpg", "url" : "pages/yuhu-store.html"},
 		{"title" : "Earthquakes Distribution in Indonesia 2014", "desc" : "Data visualization project", "img" : "images/earthquake-distribution-indonesia.jpg", "url" : "pages/earthquakes-distribution-indonesia-2014.html"},
 		{"title" : "H.O.P.E, Windows PC Game", "desc" : "Imagine Cup 2014", "img" : "https://img.youtube.com/vi/Few4hoOU4z0/mqdefault.jpg", "url" : "pages/hope-game-imagine-cup-2014.html"},
 		{"title" : "Pentomaster", "desc" : "Solving pentomino with DFS & BFS", "img" : "images/pentomaster-level-7-solved-by-algorithm.jpg", "url" : "pages/pentomino-dfs-bfs.html"}		
