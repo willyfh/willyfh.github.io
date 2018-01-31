@@ -2,6 +2,7 @@
 	"data":[
 		{"title" : "Open Store", "desc" : "A Simple JSP Ecommerce Website", "img" : "images/open-store.jpg", "url" : "pages/open-store.html"},
 		{"title" : "Yuhu Store", "desc" : "A Simple PHP Ecommerce Website", "img" : "images/yuhu-store.jpg", "url" : "pages/yuhu-store.html"},
+		{"title" : "Box Destroyer (Unity 3D)", "desc" : "A simple FPS (First-Person Shooter) game", "img" : "images/box-destroyer-unity-game.jpg", "url" : "pages/box-destroyer-unity-3d.html"},
 		{"title" : "Earthquakes Distribution in Indonesia 2014", "desc" : "Data visualization project", "img" : "images/earthquake-distribution-indonesia.jpg", "url" : "pages/earthquakes-distribution-indonesia-2014.html"},
 		{"title" : "Smart Cat & Mouse", "desc" : "Implementation of Reinforcement Learning", "img" : "images/cat-mouse-play.jpg", "url" : "pages/cat-mouse-ai.html"},
 		{"title" : "H.O.P.E, Windows PC Game", "desc" : "Imagine Cup 2014", "img" : "https://img.youtube.com/vi/Few4hoOU4z0/mqdefault.jpg", "url" : "pages/hope-game-imagine-cup-2014.html"},
