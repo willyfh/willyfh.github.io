@@ -1,5 +1,7 @@
 {
 	"data":[
+		{"title" : "IDN LOL", "desc" : "Video sharing website", "img" : "images/idnlol-home.jpg", "url" : "pages/idnlol.html"},
+		{"title" : "Clothing Retail Sales System", "desc" : "A Java Spring Based Website", "img" : "images/clothing-retail-sales-system-home.jpg", "url" : "pages/clothing-retail-sales-system.html"},
 		{"title" : "Twitter Data Collection Tool", "desc" : "For Trouble Ticketing System of Bandung City Government", "img" : "images/twitter-data-collection-tool.jpg", "url" : "pages/twitter-data-collection-tool.html"},
 		{"title" : "ITB Dormitory Information System", "desc" : "Student activity information system", "img" : "images/itb-dormitory.jpg", "url" : "pages/itb-dormitory.html"},
 		{"title" : "Market Games", "desc" : "A marketplace for virtual gaming items", "img" : "images/market-games.jpg", "url" : "pages/market-games.html"},
