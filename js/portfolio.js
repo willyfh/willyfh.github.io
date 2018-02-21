@@ -44,8 +44,8 @@
 				html+= portfolios[i].img;
 				html+= ');">';
 				html+= '<div class="desc">';
-				html+= '<h3>Project Name</h3>';
-				html+= '<span>Illustration</span>';
+				html+= '<h3>'+portfolios[i].title+'</h3>';
+				html+= '<span>'+portfolios[i].desc+'</span>';
 				html+= '</div></a></div>';
 				$('.load-more').before(html);
 			}
