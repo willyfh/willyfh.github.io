@@ -23,6 +23,6 @@ social: true # includes social icons at the bottom of the page
   - [Anomalib](https://github.com/openvinotoolkit/anomalib), [MMPose](https://github.com/open-mmlab/mmpose), [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub), etc.
 - 🌍 Culturally enriched through experiences in:
   - Indonesia, Singapore, Japan, Germany, and South Korea.
-- 🤝 Open for AI/ML collaboration. Let's connect!
+- 🤝 Open for collaboration. Let's connect!
 
-My primary interests are in Computer Vision in general, Multimodal Learning, and Cognitive Robotics.
+My primary interests are in Computer Vision, Multimodal Learning, Machine Learning, and Cognitive Robotics.

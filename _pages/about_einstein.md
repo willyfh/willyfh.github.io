@@ -7,4 +7,4 @@
   - Indonesia, Singapore, Japan, Germany, and South Korea.
 - 🤝 Open for AI/ML collaboration. Let's connect!
 
-My primary interests are in Computer Vision in general, Multimodal Learning, and Cognitive Robotics.
+My primary interests are in Computer Vision, Multimodal Learning, Machine Learning, and Cognitive Robotics.
