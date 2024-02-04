@@ -2,7 +2,7 @@
 layout: page
 permalink: /peer-reviews/
 title: peer reviews
-description:
+description: A list of my contributions as a reviewer.
 nav: true
 nav_order: 3
 ---
