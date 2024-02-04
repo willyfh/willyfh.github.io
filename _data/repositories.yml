@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - willyfh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - willyfh/graph-transformer
+  - willyfh/uav-trajectory-planning
+  - willyfh/awesome-video-text-datasets
+  - Sejong-VLI/V2T-Action-Graph-JKSUCIS-2023
+  - willyfh/msvd-indonesian
+  - openvinotoolkit/anomalib

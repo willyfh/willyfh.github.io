@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- 🌐 Diverse expertise: computer vision, NLP, multimodal learning, backend/frontend, UI/UX, and CI/CD.
+- 📝 Published papers in SCI journals and patents in Korea. [Google Scholar](https://scholar.google.com/citations?user=HIh0x_wAAAAJ&hl=en)
+- 📦 Open source contributions: [Anomalib](https://github.com/openvinotoolkit/anomalib), [MMPose](https://github.com/open-mmlab/mmpose), [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub).
+- 🌍 Culturally enriched through experiences in Indonesia, Singapore, Japan, Germany, South Korea.
+- 🤝 Open for AI/ML collaboration. Let's connect!
