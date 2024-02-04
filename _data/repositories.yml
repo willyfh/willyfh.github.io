@@ -2,9 +2,9 @@ github_users:
   - willyfh
 
 github_repos:
+  - openvinotoolkit/anomalib
   - willyfh/graph-transformer
   - willyfh/uav-trajectory-planning
   - willyfh/awesome-video-text-datasets
   - Sejong-VLI/V2T-Action-Graph-JKSUCIS-2023
   - willyfh/msvd-indonesian
-  - openvinotoolkit/anomalib
