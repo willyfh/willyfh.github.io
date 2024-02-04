@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Detik Network](https://sites.google.com/view/vlilab) as a Machine Learning Engineer in Jakarta, Indonesia.
+Joined [Detik Network](https://en.wikipedia.org/wiki/Detik.com) as a Machine Learning Engineer in Jakarta, Indonesia.
