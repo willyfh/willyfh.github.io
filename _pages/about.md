@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 - 🌐 Diverse expertise:
-  - computer vision, NLP, multimodal learning, backend/frontend, UI/UX, and CI/CD.
+  - Computer vision, NLP, Multimodal Learning, Backend/Frontend, UI/UX, and CI/CD.
 - 📝 Published papers in SCI journals and patents in Korea.
 - 📦 Open source contributions:
   - [Anomalib](https://github.com/openvinotoolkit/anomalib), [MMPose](https://github.com/open-mmlab/mmpose), [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub), etc.
