@@ -24,3 +24,5 @@ social: true # includes social icons at the bottom of the page
 - 🌍 Culturally enriched through experiences in:
   - Indonesia, Singapore, Japan, Germany, and South Korea.
 - 🤝 Open for AI/ML collaboration. Let's connect!
+
+My primary interests are in Computer Vision in general, Multimodal Learning, and Cognitive Robotics.
