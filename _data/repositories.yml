@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - openvinotoolkit/anomalib
+  - willyfh/visualtorch
   - willyfh/graph-transformer
   - willyfh/uav-trajectory-planning
   - willyfh/awesome-video-text-datasets
